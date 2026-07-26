@@ -1,1 +1,5 @@
-# Credit_Score_Classification
+**Credit Score Classification Using Random Forest and XGBoost**
+
+Developed a machine learning solution to classify customer credit scores and support automated credit risk assessment for digital lending applications. The project utilized customer financial profiles, credit history, payment behavior, and demographic information to predict credit score categories. A comprehensive analytics pipeline was implemented, including exploratory data analysis (EDA), extensive data cleaning, missing value handling, feature engineering, categorical encoding, and data preprocessing to transform raw financial records into high-quality inputs for predictive modeling.
+
+The classification models were built using **Random Forest** and **XGBoost**, with systematic hyperparameter optimization to identify the best-performing model. Their performance was compared using multiple evaluation metrics on an independent test set, followed by feature importance analysis to identify the key factors influencing credit score predictions and improve model interpretability. This project strengthened my practical experience in **classification modeling, data preprocessing, feature engineering, model optimization, explainable machine learning, and developing end-to-end predictive analytics solutions for financial risk assessment**.
